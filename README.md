@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-    Froststrap is a fork of <a href="https://github.com/fishstrap/fishstrap.git"><strong>Fishstrap</strong></a> focused on additional features like performance, customization.
+    Forzastrap is a fork of <a href="https://github.com/fishstrap/fishstrap.git"><strong>Fishstrap</strong></a> focused on additional features like performance, customization.
 </p>
 
 <p align="center">
